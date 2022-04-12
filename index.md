@@ -34,22 +34,22 @@ Ethics Papers
 ### [Paper 1 Can Both Ad Blocking software and Advertisement be Ethical?](/pdf/Ad_Blocking_Paper.pdf)
 
 -   **Class: CSCI 235 - Procedual Programming**  
--   **Grade: A **
+-   **Grade: A**
 
 ### [Paper 2 Redistribution is Allowed.](/pdf/Redistribution_is_Allowed.pdf)
 
 -   **Class: CSCI 301 - Survey of Scripting Languages** 
--   **Grade: A **
+-   **Grade: A**
 
 ### [Paper 3 Environment and IT](/pdf/EnvironmentandIT.pdf)
 
 -   **Class: CSCI 325 - Object-Oriented Programming** 
--   **Grade: A **
+-   **Grade: A**
 
 ### [Paper 3 Should Software Resource be free to share to others?](/pdf/SoftwareResourcebeFree.pdf)
 
 -   **Class: CSCI 332 - Applied Networking** 
--   **Grade: A **
+-   **Grade: A**
 
 ---
 
