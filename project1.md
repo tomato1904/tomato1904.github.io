@@ -6,12 +6,16 @@ Project 1 Title
 -   **Class: CSCI 325 - Object-Oriented Programming** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [tomato1904/csci-325-Fall20-Team-Java-Cups](https://guides.github.com/tomato1904/csci-325-Fall20-Team-Java-Cups)  
+-   **Source Code Repository:** [tomato1904/csci-325-Fall20-Team-Java-Cups](https://github.com/tomato1904/csci-325-Fall20-Team-Java-Cups)  
     (Please [email me](mailto:jmin@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
 This project is covering object-oriented programming class using Java. Course includes application and applet development, control structures, classes methods, arrays, inheritance, polymorphism, strings and characters, graphics, graphical user interface components, stacks, queues, trees, recursion and exception handling. Based on all the knowlege I learned from Java, Hangman Game is created as a team project.
+
+## JAVA Software 
+
+If you need help finding a software to run the code, [click here](https://www.guru99.com/install-eclipse-java.html) to get help setting up the JAVA environment.
 
 ## How to compile and run the program
 
@@ -28,9 +32,9 @@ If the programming language does not require compilation, the update the heading
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+When all the files compile successfully, (see Fig 1), the game, HangMan launches as it shown below. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/launch.jpg)  
 Fig 1. The launch screen
 
 ![screenshot](images/dummy_thumbnail.jpg)  
