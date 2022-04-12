@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:jmin@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -31,23 +31,23 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Can Both Ad Blocking software and Advertisement be Ethical?](/pdf/sample_presentation.pdf)
+### [Paper 1 Can Both Ad Blocking software and Advertisement be Ethical?](/pdf/Ad_Blocking_Paper.pdf)
 
 -   **Class: CSCI 235 - Procedual Programming **  
 -   **Grade: A **
 
-### [Paper 2 Redistribution is Allowed.](/pdf/sample_presentation.pdf)
+### [Paper 2 Redistribution is Allowed.](/pdf/Redistribution_is_Allowed.pdf)
 
 -   **Class: CSCI 301 - Survey of Scripting Languages ** 
 -   **Grade: A **
 
-### [Paper 3 Environment and IT](/pdf/sample_presentation.pdf)
+### [Paper 3 Environment and IT](/pdf/EnvironmentandIT.pdf)
 
 -   **Class: CSCI 325 - Object-Oriented Programming ** 
 -   **Grade: A **
 
 ### [Paper 3 
-Should Software Resource be free to share to others?](/pdf/sample_presentation.pdf)
+Should Software Resource be free to share to others?](/pdf/SoftwareResourcebeFree.pdf)
 
 -   **Class: CSCI 332 - Applied Networking** 
 -   **Grade: A **
