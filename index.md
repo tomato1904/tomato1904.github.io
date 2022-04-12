@@ -56,16 +56,28 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Ted Talk:Solar Winds Attack](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+![TedTalk](/least-github-pages/assets/tedtalk.jpg)
+
+- **Class: CSCI 352 - Cyber Defense** 
+- **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Business Breach](/pdf/HomDepotBreach.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 405 - Principles of Cybersecurity** 
+- **Grade: A**
+
+### [Presentation 2 How much have you given out to the AI world about YOU?](/pdf/AI.pdf)
+
+- **Class: CSCI 405 - Principles of Cybersecurity** 
+- **Grade: A**
+
+### [Presentation 2 Buffer Overflows](/pdf/Buffer_Overflows.pdf)
+
+- **Class: CSCI 330 -Computer Architecture** 
+- **Grade: A**
 
 ---
 
