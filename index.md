@@ -58,7 +58,7 @@ Presentations
 
 ### [Presentation 1 Ted Talk:Solar Winds Attack](/pdf/sample_presentation.pdf)
 
-![TedTalk](/least-github-pages/assets/tedtalk.jpg)
+![TedTalk](/images/tedtalk.JPG)
 
 - **Class: CSCI 352 - Cyber Defense** 
 - **Grade: A**
