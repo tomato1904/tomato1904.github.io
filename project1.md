@@ -6,12 +6,12 @@ Project 1 Title
 -   **Class: CSCI 325 - Object-Oriented Programming** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/tomato1904/csci-325-Fall20-Team-Java-Cups)  
+-   **Source Code Repository:** [tomato1904/csci-325-Fall20-Team-Java-Cups](https://guides.github.com/tomato1904/csci-325-Fall20-Team-Java-Cups)  
     (Please [email me](mailto:jmin@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is covering object-oriented programming class using Java. Course includes application and applet development, control structures, classes methods, arrays, inheritance, polymorphism, strings and characters, graphics, graphical user interface components, stacks, queues, trees, recursion and exception handling. Based on all the knowlege I learned from Java, Hangman Game is created as a team project.
 
 ## How to compile and run the program
 
