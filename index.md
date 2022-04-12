@@ -8,6 +8,8 @@ Programming Projects
 
 ---
 ### [Project 3 Hangman Game | CSCI 325](project1)
+-   **Class: CSCI 325 - Objected-Oriented Programming**  
+-   **Grade: A**
 
 Ethics Papers
 -------------
