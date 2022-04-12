@@ -31,20 +31,26 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Paper 1 Can Both Ad Blocking software and Advertisement be Ethical?](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 235 - Procedual Programming **  
+-   **Grade: A **
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Paper 2 Redistribution is Allowed.](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 301 - Survey of Scripting Languages ** 
+-   **Grade: A **
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Paper 3 Environment and IT](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 325 - Object-Oriented Programming ** 
+-   **Grade: A **
+
+### [Paper 3 
+Should Software Resource be free to share to others?](/pdf/sample_presentation.pdf)
+
+-   **Class: CSCI 332 - Applied Networking** 
+-   **Grade: A **
 
 ---
 
