@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:jmin@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 3 Hangman Game | CSCI 325](project1)
+### [Project 1 Hangman Game](project1)
 -   **Class: CSCI 325 - Objected-Oriented Programming**  
 -   **Grade: A**
 
