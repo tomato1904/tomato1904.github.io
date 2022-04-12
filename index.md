@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:jmin@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Hangman Game](project1)
+### [Project 1 | Hangman Game](project1)
 -   **Class: CSCI 325 - Objected-Oriented Programming**  
 -   **Grade: A**
 
@@ -39,7 +39,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Ted Talk:Solar Winds Attack](https://www.youtube.com/watch?v=JlQyeHu5YwU)
+### [Presentation 1 | Ted Talk:Solar Winds Attack](https://www.youtube.com/watch?v=JlQyeHu5YwU)
 
 ![TedTalk](/images/tedtalk.JPG)
 
