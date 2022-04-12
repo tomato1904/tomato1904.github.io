@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project HangMan Game
 ===============
 
 -   **Class: CSCI 325 - Object-Oriented Programming** 
@@ -19,33 +19,43 @@ If you need help finding a software to run the code, [click here](https://www.gu
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+Import the file from [here](https://github.com/tomato1904/csci-325-Fall20-Team-Java-Cups) using a JAVA IDE software (etc. Eclipse, Atom, Visual Studio, Net Beans). By clicking "Run" button, you can simply run the application.
 
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+If the programming language does not require compilation, make sure jdk is installed within the proper setting in order to debug java.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The project is in 100% Java language. Instead of JFrame, Swing is used for graphical user interface(GUI). User will interact by clicking the button on the bottom of the screen. Calculated scores appear at the other end on the top of the screen. Selected category is in between score screen. User will be notified everytime she/he miss or get the answer.
 
-When all the files compile successfully, (see Fig 1), the game, HangMan launches as it shown below. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+When all the files compile successfully, (see Fig 1), the game, HangMan launches as it shown below. When a player clicks rule, the rule appears (see Fig 2). When a player clicks the start button, a game starts (see Fig 3).
 
-![screenshot](images/launch.jpg)  
-Fig 1. The launch screen
+![fig1](images/launch.png)  
+Fig 1. The Launch Screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![fig2](images/rules.png)  
+Fig 2. The Rule Screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![fig3](images/start.png)  
+Fig 3. The Start Screen When a Game Starts
 
-## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+## 3. Additional Description.
+
+A player can choose a category and the it will appear in the category box at the top of the game screen (see Fig 4). When the input is registered, output will shown in the white game screen (see Fig 5). If a player max out his/her chances, game is over (see Fig 6). If a play guess all the alphabets within given opportunities, victory screen appears as it shown (see Fig 7).
+
+![fig4](images/category.png)  
+Fig 4. The Category Screen.
+
+![fig5](images/play.png)  
+Fig 5. The Play Screen.
+
+![fig6](images/gameover.png)  
+Fig 6. Game Over.
+
+![screenshot](images/win.png)  
+Fig 7. Player Win.
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
