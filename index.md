@@ -11,6 +11,10 @@ Programming Projects
 -   **Class: CSCI 325 - Objected-Oriented Programming**  
 -   **Grade: A**
 
+### [Project 2 | Hand Sake](https://csuniv.joinhandshake.com/stu/users/25816760)
+-   **Class: CSCI 496 - Senior Portfolio Review**  
+-   **Grade: A**  
+
 Ethics Papers
 -------------
 
