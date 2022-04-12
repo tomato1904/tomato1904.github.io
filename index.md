@@ -56,7 +56,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Ted Talk:Solar Winds Attack](/pdf/sample_presentation.pdf)
+### [Presentation 1 Ted Talk:Solar Winds Attack](https://www.youtube.com/watch?v=JlQyeHu5YwU)
 
 ![TedTalk](/images/tedtalk.JPG)
 
