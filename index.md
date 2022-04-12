@@ -31,22 +31,22 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Can Both Ad Blocking software and Advertisement be Ethical?](/pdf/Ad_Blocking_Paper.pdf)
+### [Paper 1 | Can Both Ad Blocking software and Advertisement be Ethical?](/pdf/Ad_Blocking_Paper.pdf)
 
 -   **Class: CSCI 235 - Procedual Programming**  
 -   **Grade: A**
 
-### [Paper 2 Redistribution is Allowed.](/pdf/Redistribution_is_Allowed.pdf)
+### [Paper 2 | Redistribution is Allowed.](/pdf/Redistribution_is_Allowed.pdf)
 
 -   **Class: CSCI 301 - Survey of Scripting Languages** 
 -   **Grade: A**
 
-### [Paper 3 Environment and IT](/pdf/EnvironmentandIT.pdf)
+### [Paper 3 | Environment and IT](/pdf/EnvironmentandIT.pdf)
 
 -   **Class: CSCI 325 - Object-Oriented Programming** 
 -   **Grade: A**
 
-### [Paper 3 Should Software Resource be free to share to others?](/pdf/SoftwareResourcebeFree.pdf)
+### [Paper 4 | Should Software Resource be free to share to others?](/pdf/SoftwareResourcebeFree.pdf)
 
 -   **Class: CSCI 332 - Applied Networking** 
 -   **Grade: A**
@@ -64,17 +64,17 @@ Presentations
 - **Grade: A**
 
 
-### [Presentation 2 Business Breach](/pdf/HomDepotBreach.pdf)
+### [Presentation 2 | Business Breach](/pdf/HomDepotBreach.pdf)
 
 - **Class: CSCI 405 - Principles of Cybersecurity** 
 - **Grade: A**
 
-### [Presentation 2 How much have you given out to the AI world about YOU?](/pdf/AI.pdf)
+### [Presentation 3 | How much have you given out to the AI world about YOU?](/pdf/AI.pdf)
 
 - **Class: CSCI 405 - Principles of Cybersecurity** 
 - **Grade: A**
 
-### [Presentation 2 Buffer Overflows](/pdf/Buffer_Overflows.pdf)
+### [Presentation 4 | Buffer Overflows](/pdf/Buffer_Overflows.pdf)
 
 - **Class: CSCI 330 -Computer Architecture** 
 - **Grade: A**
