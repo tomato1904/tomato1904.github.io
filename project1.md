@@ -3,11 +3,11 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI 325 - Object-Oriented Programming** 
+-   **Grade: A** 
+-   **Language(s): Java** 
+-   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/tomato1904/csci-325-Fall20-Team-Java-Cups)  
+    (Please [email me](mailto:jmin@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
